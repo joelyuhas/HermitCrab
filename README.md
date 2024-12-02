@@ -37,5 +37,8 @@ A high level overview of how the project was broken up is shown in the following
     - Contains some of the debugging logs.
 - backup-data
     - Backup logs and older code used with debugging.
+ 
+## Follow Up
+This project was eventually replaced by a similar project that using a Raspberry-Pico and micro python. The follow up project only monitored the temperature and humidity, and only toggled on the fan when needed.
 
 More updates to come in future PDF!
