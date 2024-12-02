@@ -1,10 +1,10 @@
 # HermitCrab
-The automation of the temperate and humidity inside a hermit crab tank using a Raspberry Pi, a fan, heat lamp, and some sensors. Also attached the Pi camera and creatd time lapse videos. 
+The automation of the temperate and humidity inside a hermit crab tank using a Raspberry Pi, a fan, heat lamp, and some sensors. Also attached the Pi camera and created time lapse videos. 
 
-Originally creatd Aug 2022.
+Originally created Aug 2022.
 
 ## Objective
-The objective of this project was to create an automated system that could help maintain a specific tempeture and humidity range in my hermit crab tank, specifically between 70%-85% humidity and 72-85 degrees farenheight. The device would be mounted to the top of the hermit crab cage and operate continuously.
+The objective of this project was to create an automated system that could help maintain a specific temperature and humidity range in my hermit crab tank, specifically between 70%-85% humidity and 72-85 degrees Fahrenheit. The device would be mounted to the top of the hermit crab cage and operate continuously.
 
 A secondary objective was to setup the Pi Camera and get some time lapse shots of the hermit crabs moving.
 
